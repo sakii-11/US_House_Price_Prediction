@@ -54,4 +54,4 @@ Illustrates how features relate to each other. Notice the strong correlation bet
 💾 Model Output
 The trained model is saved as model.pkl using joblib, ready for inference.
 
-Which is loaded into a Streamlit frontend for interactive home price prediction.# US_House_Price_Prediction
+Which is loaded into a Streamlit frontend for interactive home price prediction.
